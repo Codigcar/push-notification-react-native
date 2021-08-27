@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "809872299141",
+    "project_id": "push-notification-d3b59",
+    "storage_bucket": "push-notification-d3b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809872299141:android:8da1ce5f81df8b0663c5ec",
+        "android_client_info": {
+          "package_name": "com.awesometsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809872299141-546ubtpj6g9gnppat93csq25s0l6fa7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8lVAsmaKKfh_07JWEfqXWK4leZdJNEw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809872299141-546ubtpj6g9gnppat93csq25s0l6fa7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
